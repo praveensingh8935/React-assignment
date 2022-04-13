@@ -1,0 +1,33 @@
+.LandingPage{
+    border: 1px solid gainsboro;
+    display: flex;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 200px;
+
+}
+.conatiner1{
+    margin-top: 100px;
+    margin-left: 25px;
+    display: flex;
+    flex-direction: column;
+    color: gray;
+}
+h1{
+    font-style: italic;
+}
+.anchor{
+   
+    border-radius: 8px;
+    color: burlywood;
+    text-decoration: none;
+}
+
+.submit1 {
+    border-radius: 5px;
+    width: 5px;
+}
+.submit1 {
+    width: 50px;
+    margin-left: 100px;
+}
