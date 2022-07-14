@@ -7,7 +7,83 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
+/*code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}*/
+.Header{
+  border: 1px solid aquamarine;
+  width: 70%;
+  margin-left: 15%;
+}
+.Header1{
+  display: flex;
+  margin-left: 10%;
+}
+.Camera-icon{
+  float: right;
+  margin-top: -50px;
+  margin-right: 100px;
+  color: gray;
+}
+.ins{
+  color:green;
+}
+.insta-icon{
+  margin-top: 33px;
+  
+}
+.Postcontainer{
+  border: 1px solid grey;
+  border-radius: 5px;
+  width: 400px;
+  height: 470px;
+  margin-left: 38%;
+  line-height: 30px;
+  margin-top: 20px;
+}
+.Image{
+  width: 400px;
+  height: 300px;
+}
+.PostName{
+  font-weight: bold;
+  font-size: 16px;
+  margin-left: 10px;
+}
+.PostLocation{
+  margin-left: 10px;
+  color: lightcoral;
+}
+.PostAction{
+  float: right;
+  margin-top: -55px;
+  font-size: 30px;
+  margin-left: 10px;
+}
+.Date{
+  float: right;
+  margin-top: -40px;
+  color: lightcoral;
+}
+.Description{
+  font-weight: bold;
+  margin-left: 10px;
+}
+.icon > button{
+  margin-left: 10px;
+  border: none;
+  background-color: #fff;
+  margin-left: 3px;
+  outline: none;
+  cursor: pointer;
+  color: #919191;
+}
+.Send{
+  transform: rotate(315deg) translatey(-7px);
+  margin-top: 4px;
+}
+.Likes{
+  margin-left: 10px;
+  color: lightcoral;
 }

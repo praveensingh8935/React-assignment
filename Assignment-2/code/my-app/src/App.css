@@ -36,3 +36,58 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.profile1{
+  border: 5px solid red;
+  width: auto;
+  height: auto;
+  margin-left: 42%;
+  margin-right: 40%;
+}
+.img{
+  width: 200px;
+  height: 200px;
+  border-radius: 5px;
+  margin-left: 25px;
+ 
+}
+.nam{
+  font-size: 30px;
+  color: blue;
+  margin-left: 25px;
+
+}
+.loca{
+  color: green;
+  margin-left: 25px;
+  
+}
+.loca1{
+  font-weight: bold;
+  font-size: 18px;
+  margin-left: 25px;
+  margin-top: -13px;
+
+}
+.Blood{
+  color: green;
+  margin-left: 25px;
+}
+.Blood1{
+  font-weight: bold;
+  font-size: 18px;
+  margin-left: 25px;
+  margin-top: -13px;
+}
+.Ag{
+  color: green;
+  margin-left: 25px;
+}
+.Ag1{
+  font-weight: bold;
+  font-size: 18px;
+  margin-left: 25px;
+  margin-top: -13px;
+}
